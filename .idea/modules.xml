@@ -3,9 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Boilerplate.Util.iml" filepath="$PROJECT_DIR$/.idea/modules/Boilerplate.Util.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/droidplugin/droidplugin.iml" filepath="$PROJECT_DIR$/.idea/modules/droidplugin/droidplugin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin/plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin/plugin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-sample/plugin-sample.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-sample/plugin-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keyboard/keyboard.iml" filepath="$PROJECT_DIR$/keyboard/keyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sound/sound.iml" filepath="$PROJECT_DIR$/sound/sound.iml" />
     </modules>
   </component>
 </project>
