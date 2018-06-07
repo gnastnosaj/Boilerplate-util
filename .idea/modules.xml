@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Boilerplate.Util.iml" filepath="$PROJECT_DIR$/.idea/modules/Boilerplate.Util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boilerplate-util.iml" filepath="$PROJECT_DIR$/Boilerplate-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/keyboard/keyboard.iml" filepath="$PROJECT_DIR$/keyboard/keyboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/sound/sound.iml" filepath="$PROJECT_DIR$/sound/sound.iml" />
     </modules>
