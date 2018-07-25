@@ -1,2 +1,2 @@
 rootProject.name = 'Boilerplate-util'
-include ':keyboard', ':sound'
+include ':keyboard', ':sound', ':textdrawable'

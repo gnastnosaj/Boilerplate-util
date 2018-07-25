@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Boilerplate-util.iml" filepath="$PROJECT_DIR$/Boilerplate-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/keyboard/keyboard.iml" filepath="$PROJECT_DIR$/keyboard/keyboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/sound/sound.iml" filepath="$PROJECT_DIR$/sound/sound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textdrawable/textdrawable.iml" filepath="$PROJECT_DIR$/textdrawable/textdrawable.iml" />
     </modules>
   </component>
 </project>
